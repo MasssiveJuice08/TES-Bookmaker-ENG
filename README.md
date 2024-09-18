@@ -12,4 +12,4 @@ The tool was built with [Delphi](https://www.embarcadero.com/products/delphi).
 > **Russian**
 > Приложение предназначено для упрощения создания и редактирования книг в Morrowind. Из «голого» текста легко можно получить текст с проставленными абзацами, затем останется лишь добавить нужные теги с помощью графического интерфейса.
 
-![Screenshot of the English translation of TES Bookmaker](https://github.com/MasssiveJuice08/TES-Bookmaker-ENG/blob/1.1/tes-bookmaker-english-screenshot.png)
+![Screenshot of the English translation of TES Bookmaker](https://github.com/MasssiveJuice08/TES-Bookmaker-ENG/blob/main/tes-bookmaker-english-screenshot.png)
